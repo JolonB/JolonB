@@ -1,7 +1,9 @@
 ## Hi, I'm Jolon
 
+<div align="center">
 <a href="https://github.com/JolonB/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JolonB&show=prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&include_all_commits=true" /></a>
 <a href="https://github.com/JolonB"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolonB&hide=openscad&layout=donut&langs_count=4" /></a>
+</div>
 
 ---
 <!--
