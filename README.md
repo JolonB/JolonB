@@ -1,13 +1,18 @@
 ## Hi, I'm Jolon
 
-[![JolonB's GitHub stats](https://github-readme-stats.vercel.app/api?username=JolonB&show=prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&include_all_commits=true)](https://github.com/JolonB/)
-[![JolonB's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JolonB&hide=openscad&layout=compact&langs_count=4)](https://github.com/JolonB)
+<a href="https://github.com/JolonB/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JolonB&show=prs_merged,prs_merged_percentage&show_icons=true&hide_rank=true&include_all_commits=true" /></a>
+<a href="https://github.com/JolonB"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JolonB&hide=openscad&layout=donut&langs_count=4" /></a>
 
-[![SDI12-UART](https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=SDI12-UART)](https://github.com/JolonB/SDI12-UART)
-[![Pico-Steno](https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Pico-Steno)](https://github.com/JolonB/Pico-Steno)
-[![Parkrun-Voronoi](https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Parkrun-Voronoi)](https://github.com/JolonB/Parkrun-Voronoi)
-[![Secret-Santa](https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Secret-Santa)](https://github.com/JolonB/Secret-Santa)
-[![WebpageAutoArchiver](https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=WebpageAutoArchiver)](https://github.com/JolonB/WebpageAutoArchiver)
+---
+<!--
+<a href="https://github.com/JolonB/SDI12-UART"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=SDI12-UART" /></a>
+<a href="https://github.com/JolonB/WebpageAutoArchiver"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=WebpageAutoArchiver" /></a>
+
+<a href="https://github.com/JolonB/Pico-Steno"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Pico-Steno" /></a>
+<a href="https://github.com/JolonB/Parkrun-Voronoi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Parkrun-Voronoi" /></a>
+
+<a href="https://github.com/JolonB/Secret-Santa"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JolonB&repo=Secret-Santa" /></a>
+-->
 
 <!--
 **JolonB/JolonB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
